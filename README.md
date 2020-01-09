@@ -1,5 +1,5 @@
 # glowing-octo-enigma
-Learning Python and practicing SQL
+Learning Python and Practicing SQL
 
 Coursera projects:
 
